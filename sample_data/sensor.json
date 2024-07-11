@@ -1,0 +1,28 @@
+[
+    {
+      "temp": "32",
+      "humidity": "42",
+      "timestamp": { "$date": "2024-07-03T05:42:35.000Z" }
+    },
+    {
+      "temp": "28",
+      "humidity": "60",
+      "timestamp": { "$date": "2024-07-03T06:15:20.000Z" }
+    },
+    {
+      "temp": "30",
+      "humidity": "55",
+      "timestamp": { "$date": "2024-07-03T07:00:10.000Z" }
+    },
+    {
+      "temp": "29",
+      "humidity": "58",
+      "timestamp": { "$date": "2024-07-03T08:20:45.000Z" }
+    },
+    {
+      "temp": "31",
+      "humidity": "50",
+      "timestamp": { "$date": "2024-07-03T09:30:00.000Z" }
+    }
+  ]
+  
